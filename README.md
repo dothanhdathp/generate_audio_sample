@@ -31,6 +31,13 @@ Then change the flag in `makefile` to `x86_64-w64-mingw32-g++.exe`
 
 ## Build
 
+For Windows
+
 ```bash
-make all
+make msys
 ```
+
+```bash
+make mingw
+```
+
